@@ -3,6 +3,7 @@ import {useRoute} from '@react-navigation/native';
 import {View, Text, StyleSheet} from 'react-native';
 
 function About() {
+  console.log('======');
   const route = useRoute();
   const user = route.params.user;
 
