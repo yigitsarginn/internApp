@@ -1,0 +1,83 @@
+[
+  {
+    "id": "0",
+    "name": "Yigit Sargin",
+    "title": "React Native Developer",
+    "about": [
+      "About",
+      "I am a computer engineer who follows new technologies. I read, research, learn and code."
+    ],
+    "education": [
+      "Education",
+      "Karabuk University",
+      "Computer Engineering",
+      "2014-2022"
+    ],
+
+    "experience": [
+      "Experience",
+      "Intern",
+      "Adesso Turkey",
+      "June 2019-August 2019",
+      "Istanbul"
+    ],
+    "skills": ["Javascript", "Swift UIKit", "React-Native"],
+    "universityIcon": "./assets/icons/universityIcon.png",
+    "workplaceIcon": "./assets/icons/adessoImage.png",
+    "skillsIcon": "./assets/icons/skillsIcon.png"
+  },
+  {
+    "id": "1",
+    "name": "Umut Uluer",
+    "title": "Full Stack Developer",
+    "about": [
+      "About",
+      "I am a computer engineer who follows new technologies. I read, research, learn and code."
+    ],
+    "education": [
+      "Education",
+      "Bogazici University",
+      "Software Engineering",
+      "2009-2013"
+    ],
+
+    "experience": [
+      "Experience",
+      "Full Time",
+      "Modanisa",
+      "June 2019-Devam ediyor.",
+      "Istanbul"
+    ],
+    "skills": ["Javascript", "Swift UIKit", "React-Native"],
+    "universityIcon": "./assets/icons/universityIcon.png",
+    "workplaceIcon": "./assets/icons/adessoImage.png",
+    "skillsIcon": "./assets/icons/skillsIcon.png"
+  },
+  {
+    "id": "2",
+    "name": "Tugay Balci",
+    "title": "Designer",
+    "about": [
+      "About",
+      "I am a designer who follows new technologies. I draw, draw, learn and draw."
+    ],
+    "education": [
+      "Education",
+      "Istanbul University",
+      "Design Engineering",
+      "2010-2014"
+    ],
+
+    "experience": [
+      "Experience",
+      "Full Time",
+      "PapyonLab",
+      "June 2019-Devam ediyor.",
+      "Izmir"
+    ],
+    "skills": ["Photoshop", "Figma", "React-Native"],
+    "universityIcon": "./assets/icons/universityIcon.png",
+    "workplaceIcon": "./assets/icons/adessoImage.png",
+    "skillsIcon": "./assets/icons/skillsIcon.png"
+  }
+]
